@@ -3,3 +3,4 @@ cdk.out/
 node_modules/
 *.dot
 *.py-e
+google_config.json
